@@ -1,3 +1,8 @@
+
+<!-- 
+yusuf wahyu syahroni
+203040052
+shift jumat jam 10.00 - 11.00-->
 <?php
     require 'functions.php';
     $mahasiswa = query("SELECT * FROM mahasiswa ORDER BY id ASC");

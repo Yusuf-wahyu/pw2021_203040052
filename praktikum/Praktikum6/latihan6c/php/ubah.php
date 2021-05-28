@@ -1,3 +1,10 @@
+
+
+<!-- 
+yusuf wahyu syahroni
+203040052
+shift jumat jam 10.00 - 11.00-->
+
 <?php 
 
     session_start();
@@ -6,7 +13,7 @@
         header("Location: login.php");
         exit;
     }
-    
+
 require 'functions.php';
 
 $id = $_GET['id'];
